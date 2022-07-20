@@ -9,6 +9,6 @@ Note: For most questions I will only use bookings that were not canceled, to get
 
 Topics covered and questions to answer from the data:
 
-    Monthly Hotel Booking Analysis Based on Hotel Type
-    Impact Analysis of Stay Duration on Hotel Bookings Cancellation Rates
-    Impact Analysis of Lead Time on Hotel Bookings Cancellation Rate
+    When the best time of year to book a hotel room is?
+    Does stay duration has an impact on hotel bookings cancellation rates?
+    Does lead time on hotel bookings has an impact on bookings cancellation rate?
